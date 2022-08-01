@@ -4,4 +4,4 @@ function lenTuple (string) {
     return [string, string.length]
 }
 
-exports.lenTupleImpl = lenTuple
+export const lenTupleImpl = lenTuple
